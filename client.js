@@ -14,4 +14,14 @@ conn.on("data", data => {
   console.log("Data from file: ", data);
 });
 
+// const handleUserInput = function(key) {
+//   let string = ""
+//   string += key
+//   if (keyCode === "13") {
+//     connection.write("string")
+//     //process.exit();
+//   }
+  
+// };
+
 
